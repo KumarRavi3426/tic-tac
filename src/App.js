@@ -83,6 +83,7 @@ function App() {
     setHover("X")
     setLock(false)
     setWinCombo([])
+    spanline.innerHTML = `Tic tac toe in <span>React</span>`;
     // navigate("/")
   }
 
